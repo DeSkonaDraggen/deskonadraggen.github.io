@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="Description" content="Song book for the chapter of Information and Nanotechnology" />
+    <meta name="theme-color" content="#44687d" />
+    <title>IN-Sångbok</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no">
+    <link rel="manifest" href="manifest.json">
+    <!-- Apple Stuff -->
+    <link rel="apple-touch-icon" href="images/icons/icon-512x512.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="images/icons/icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="images/icons/icon-192x192.png">
+    <link rel="apple-touch-icon" sizes="167x167" href="images/icons/icon-192x192.png">
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <link href="images/apple_splash_2048.png" sizes="2048x2732" rel="apple-touch-startup-image" media="(device-width: 1024px) and (device-height: 1366px) and (-webkit-device-pixel-ratio: 2)" />
+    <link href="images/splash-screens/apple_splash_1668.png" sizes="1668x2224" rel="apple-touch-startup-image" media="(device-width: 834px) and (device-height: 1112px) and (-webkit-device-pixel-ratio: 2)" />
+    <link href="images/splash-screens/apple_splash_1536.png" sizes="1536x2048" rel="apple-touch-startup-image" media="(device-width: 768px) and (device-height: 1024px) and (-webkit-device-pixel-ratio: 2)" />
+    <link href="images/splash-screens/apple_splash_1125.png" sizes="1125x2436" rel="apple-touch-startup-image" media="(device-width: 375px) and (device-height: 812px) and (-webkit-device-pixel-ratio: 3)" />
+    <link href="images/splash-screens/apple_splash_1242.png" sizes="1242x2208" rel="apple-touch-startup-image" media="(device-width: 414px) and (device-height: 736px) and (-webkit-device-pixel-ratio: 3)" />
+    <link href="images/splash-screens/apple_splash_750.png" sizes="750x1334" rel="apple-touch-startup-image" media="(device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2)" />
+    <link href="images/splash-screens/apple_splash_640.png" sizes="640x1136" rel="apple-touch-startup-image" media="(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2)" />
+    <!-- Jquery stuff -->
+    <link rel="stylesheet" href="themes/in-sangbok-pwa.min.css" />
+    <link rel="stylesheet" href="themes/jquery.mobile.icons.min.css" />
+    <link rel="stylesheet" href="themes/jquery.mobile.structure-1.4.5.min.css" />
+    <script src="themes/jquery-1.11.1.min.js"></script>
+    <script src="themes/jquery.mobile-1.4.5.min.js"></script>
+    <link rel="stylesheet" href="style.css">
+    <script type="text/javascript">
+        $.mobile.hashListeningEnabled = false;
+    </script>
+</head>
+
+<body>
+    <div data-role="page" data-theme="a">
+        <div id="top">
+            <div data-role="header" data-position="inline">
+                <button onclick="window.history.go(-1);" data-icon="arrow-r" class="ui-btn-left ui-btn-corner-all ui-btn ui-icon-home ui-btn-icon-notext ui-shadow" aria-hidden="true">Home Button</button>
+                <h1 class="ui-title">IN-Sångbok</h1>
+                <div class="ui-btn-right">
+                    <select id="categorySelector">
+                        <option value="All">All</option>
+                        <option value="Gasque">Gasque</option>
+                        <option value="Öhl">Öhl</option>
+                        <option value="Wihn">Wihn</option>
+                        <option value="Brännvin">Brännvin</option>
+                        <option value="Punsch">Punsch</option>
+                        <option value="Utländskt">Utländskt</option>
+                        <option value="Nördigt">Nördigt</option>
+                        <option value="Esoterica">Esoterica</option>
+                        <option value="Högtidligt">Högtidligt</option>
+                        </select>
+                </div>
+            </div>
+            <div id="input-holder">
+                <input type="search" name="searchSong" id="searchBox" placeholder="Search for name or text">
+            </div>
+        </div>
+        <div data-role="content" data-theme="a">
+            <main></main>
+        </div>
+    </div>
+    <script src="app.js"></script>
+</body>
+
+</html>
