@@ -1,49 +1,99 @@
 <?xml version="1.0" encoding="utf-8"?>
 <songs description="De Sköna Dräggens Sångbok"
-	   updated="2018-05-02">
+	   updated="2021-12-05">
 	   
-	   <song name="Fader Akilov"
-		  author="3 Dumma idioter"
-		  category="Gasque"
-		  composer="3 Dumma idioter"
+	   	 <song name="Fader Bin Ladin"
+		  category="Dräggigt"
 		  melody="Fader Abraham">
 		<p>
-			Fader Akilov,
-			Fader Akilov,
-			En lastbil hade Akilov,
-			Åh han körde på, åh han körde på,
-			Åh så gjorde han så här:
-			Höger Fot!
+			Fader Bin Ladin, Fader Bin Ladin,
+			Fyra flygplan hade Bin Ladin
+			Och de fl¨og och fl¨og,
+			och de fl¨og och fl¨og,
+			Och s˚a gjorde de s˚a h¨
+		</p>
+	</song>
+	   
+	   	 <song name="Boston Maraton"
+		  category="Dräggigt"
+		  melody="Fader Abraham">
+		<p>
+			Boston Maraton, Boston Maraton,
+			Tiotusen sprang ett maraton
+			Och de sprang och sprang,
+			och de sprang och sprang,
+			Och så gjorde de så här:
+			HOGER FOT!
 		</p>
 		<p>
-			Fader Akilov,
-			Fader Akilov,
-			En lastbil hade Akilov,
-			Åh han körde på, åh han körde på,
-			Åh så gjorde han så här:
-			Höger Fot!
-			Gas i Botten!
+			Boston Maraton, Boston Maraton,
+			Tiotusen sprang ett maraton
+			Och de sprang och sprang,
+			och de sprang och sprang,
+			Och så gjorde de så här:
+			HOGER FOT!
+			VANSTER FOT!
 		</p>
 		<p>
-			Fader Akilov,
-			Fader Akilov,
-			En lastbil hade Akilov,
-			Åh han körde på, åh han körde på,
-			Åh så gjorde han så här:
-			Höger Fot!
-			Gas i Botten!
-			Höger Sväng!
+			Boston Maraton, Boston Maraton,
+			Tiotusen sprang ett maraton
+			Och de sprang och sprang,
+			och de sprang och sprang,
+			Och så gjorde de så här:
+			HOGER FOT!
+			VANSTER FOT!
+			40 DOG!
 		</p>
 		<p>
-			Fader Akilov,
-			Fader Akilov,
+			Boston Maraton, Boston Maraton,
+			Tiotusen sprang ett maraton
+			Och de sprang och sprang,
+			och de sprang och sprang,
+			Och så gjorde de så här:
+			HOGER FOT!
+			VANSTER FOT!
+			40 DOG!
+			9 BARN!
+		</p>
+	</song>
+	   <song name="Fader Akilov"
+		  author="3 Dumma idioter"
+		  category="Dräggigt"
+		  composer="Otto Lindblad"
+		  melody="Fader Abraham">
+		<p>
+			Fader Akilov, Fader Akilov,
 			En lastbil hade Akilov,
 			Åh han körde på, åh han körde på,
 			Åh så gjorde han så här:
-			Höger Fot!
-			Gas i Botten!
-			Höger Sväng!
-			I Åhlens!
+			HÖGER FOT!
+		</p>
+		<p>
+			Fader Akilov, Fader Akilov,
+			En lastbil hade Akilov,
+			Åh han körde på, åh han körde på,
+			Åh så gjorde han så här:
+			HÖGER FOT!
+			GAS I BOTTEN!
+		</p>
+		<p>
+			Fader Akilov, Fader Akilov,
+			En lastbil hade Akilov,
+			Åh han körde på, åh han körde på,
+			Åh så gjorde han så här:
+			HÖGER FOT!
+			GAS I BOTTEN!
+			HÖGER SVÄNG!
+		</p>
+		<p>
+			Fader Akilov, Fader Akilov,
+			En lastbil hade Akilov,
+			Åh han körde på, åh han körde på,
+			Åh så gjorde han så här:
+			HÖGER FOT!
+			GAS I BOTTEN!
+			HÖGER SVÄNG!
+			I ÅHLENS!
 		</p>
 	</song>
 	   
