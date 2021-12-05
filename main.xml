@@ -1,6 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
-<songs description="IN-sektionens sångbok, Strängteoretiquernas reviderade version (2009-2015)"
+<songs description="De Sköna Dräggens Sångbok"
 	   updated="2018-05-02">
+	   
+	   <song name="Fader Akilov"
+		  author="3 Dumma idioter"
+		  category="Gasque"
+		  composer="3 Dumma idioter"
+		  melody="Fader Abraham">
+		<p>
+			Fader Akilov,
+			Fader Akilov,
+			En lastbil hade Akilov,
+			Åh han körde på, åh han körde på,
+			Åh så gjorde han så här:
+			Höger Fot!
+		</p>
+		<p>
+			Fader Akilov,
+			Fader Akilov,
+			En lastbil hade Akilov,
+			Åh han körde på, åh han körde på,
+			Åh så gjorde han så här:
+			Höger Fot!
+			Gas i Botten!
+		</p>
+		<p>
+			Fader Akilov,
+			Fader Akilov,
+			En lastbil hade Akilov,
+			Åh han körde på, åh han körde på,
+			Åh så gjorde han så här:
+			Höger Fot!
+			Gas i Botten!
+			Höger Sväng!
+		</p>
+		<p>
+			Fader Akilov,
+			Fader Akilov,
+			En lastbil hade Akilov,
+			Åh han körde på, åh han körde på,
+			Åh så gjorde han så här:
+			Höger Fot!
+			Gas i Botten!
+			Höger Sväng!
+			I Åhlens!
+		</p>
+	</song>
+	   
 	<song name="Moder Kista"
 		  author="David Larsson"
 		  category="Gasque"

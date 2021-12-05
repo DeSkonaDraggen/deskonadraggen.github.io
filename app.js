@@ -1,5 +1,5 @@
 // Variables used for fetching and default values.
-const songURL = "https://raw.githubusercontent.com/wsv-accidis/in-sangbok/master/sangbok/main.xml";
+const songURL = "https://raw.githubusercontent.com/JonathanRandleff/DeSkonaDraggen/main/main.xml";
 const selectorDefaultValue = "All";
 // HTML elements that will either be updated or have event listener.
 const main = document.querySelector("main");
