@@ -485,5 +485,55 @@
 			när jag var ett litet barn.
 		</p>
 	</song>
+		<song name="Vem kan klittra?"
+		  category="Övrigt"
+		  melody="Vem kan segla?">
+		<p>
+			Vem kan klittra förutan hand?
+			Vem kan pulla alena?
+			Vem kan scrolla nå'n gång ibland,
+			utan att sära på be'na?
+		</p>
+		<p>
+			Jag kan klittra förutan hand,
+			jag kan pulla alena
+			och scrollar gärna nå'n gång ibland,
+			utan att sära på be'na
+		</p>
+	</song>
+		<song name="Norden"
+		  category="Övrigt"
+		  melody="Högt över havet">
+		<p>
+			Finland är Finland och Finland är bra.
+			Dom har en pipeline med sprit från Moskva.
+			Bada bastu och piska med ris ,
+			Hacka hål i is
+		</p>
+		<p>
+			Danmark är Danmark och Danmark är bra.
+			Dom har en jungfru som sitter så bar.
+			Röde pölsor med Tuborg och lök, 
+			vi köpte billig krök.	
+		</p>
+		<p>
+			Norge är Norge och Norge är bra.
+			Dom har den olja som vi vill ha.
+			Dyrt i baren ett jävla pris, 
+			klubba säl med is.
+		</p>
+		<p>
+			Island är Island och Island är bra.
+			Kriser, vulkaner och hästar dom har.
+			Jag fiser i geisern vad var det jag sa, 
+			valspeck varje dag.
+		</p>
+		<p>
+			Sverige är Sverige och Sverige är bäst.
+			Ingvar Kamprad han tjänar mest.
+			Ullared, Abba och Absolut,
+			Nu är visan slut.
+		</p>
+	</song>
 	
 </songs>
