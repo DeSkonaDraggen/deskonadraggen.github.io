@@ -1,0 +1,24 @@
+{
+  "name": "sangbok",
+  "version": "1.0.0",
+  "description": "De Skona Draggens Sangbok",
+  "main": "app.js",
+  "dependencies": {
+    "eslint": "^5.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeSkonaDraggen/sangbok.git"
+  },
+  "author": "Scar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DeSkonaDraggen/sangbok/issues"
+  },
+  "homepage": "https://github.com/DeSkonaDraggen/sangbok#readme"
+}
